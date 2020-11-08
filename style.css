@@ -20,3 +20,19 @@ body{
     height: 100px;
     background-color: aqua;
 }
+
+.formulario{
+    font-family: Helvetica, sans-serif;
+}
+
+.formulario h3{
+    color: #025157
+}
+
+.formulario button{
+    background-color: #025157;
+}
+
+.formulario p{
+    color: #343434
+}
