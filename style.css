@@ -23,11 +23,7 @@ body{
     font-family: Helvetica, sans-serif;
 }
 
-<<<<<<< HEAD
 .formulario h3{
-=======
-.formulario h2{
->>>>>>> f32a1e5d95735d18b433588aac6a49aea8d6afc8
     color: #025157
 }
 
@@ -36,22 +32,5 @@ body{
 }
 
 .formulario p{
-<<<<<<< HEAD
     color: #343434
-=======
-    color:#343434
-}
-
-.video-container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  
-}
-
-.video-container img{
-    width: 120px;
-    margin-top: 10px;
-  
->>>>>>> f32a1e5d95735d18b433588aac6a49aea8d6afc8
 }
